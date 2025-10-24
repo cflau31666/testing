@@ -31,3 +31,18 @@ It helps identify:
 ```bash
 git clone https://github.com/cflau31666/toronto-traffic-congestion-analyzer.git
 cd toronto-traffic-congestion-analyzer
+
+### 2️⃣ Install dependencies
+pip install pandas plotly geopandas folium
+
+### 3️⃣ Fetch the dataset
+
+You can download the full CSV directly from the City of Toronto open data site,
+or use the sample dataset provided: 
+CSV: https://open.toronto.ca/dataset/traffic-volumes-midblock-vehicle-speed-volume-and-classification-counts/
+geoJSON: https://open.toronto.ca/dataset/neighbourhoods/
+
+⚠️ Notes
+	•	Large raw data files (CSV & GeoJSON) are not included in the repository due to GitHub’s 25 MB file limit.
+	•	Use the provided script or link in this README to download them directly.
+	•	Generated HTML files are saved locally under data/processed/.
