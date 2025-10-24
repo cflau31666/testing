@@ -1,6 +1,5 @@
 # 🛣️ Toronto Traffic Congestion Analyzer
 
-**Author:** [@cflau31666](https://github.com/cflau31666)  
 **Language:** Python  
 **Libraries:** `pandas`, `plotly`, `geopandas`, `folium`, `requests`
 
@@ -15,6 +14,20 @@ It helps identify:
 - How congestion varies between weekdays and weekends  
 - Which Toronto neighborhoods experience the highest congestion  
 
+
+## 🗺️ Example Outputs
+
+| Visualization | Description |
+|----------------|-------------|
+| 🕒 Hourly Congestion Chart | Shows how congestion changes throughout the day. |
+| 📆 Heatmap (Weekday × Hour) | Displays patterns across the week. |
+| 🗺️ Neighborhood Choropleth | Highlights which Toronto neighborhoods are most congested. |
+
 ---
 
-## 📂 Project Structure
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/cflau31666/toronto-traffic-congestion-analyzer.git
+cd toronto-traffic-congestion-analyzer
