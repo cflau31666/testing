@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The **Toronto Traffic Congestion Analyzer** uses real open data from the [City of Toronto Open Data Portal](https://open.toronto.ca) to visualize and analyze **traffic speed, volume, and congestion** patterns across the city.
 
