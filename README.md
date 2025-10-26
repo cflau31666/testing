@@ -42,10 +42,9 @@ pip install pandas plotly geopandas folium
 
 ### 3️⃣ Fetch the dataset
 
-You can download the full CSV directly from the City of Toronto Open Data site, or use the sample dataset provided below:
-
+You can download the full CSV directly from the City of Toronto Open Data site : https://open.toronto.ca/dataset/traffic-volumes-midblock-vehicle-speed-volume-and-classification-counts/
 - **CSV:** Traffic Volumes & Vehicle Speeds
-- **GeoJSON:** Toronto Neighbourhoods
+- **GeoJSON:** Toronto Neighbourhoods (Included in the raw folder) 
 
 ---
 
