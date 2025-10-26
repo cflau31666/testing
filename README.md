@@ -62,12 +62,12 @@ After analyzing over 1.2 million traffic speed records, I uncovered several key 
 
 ### 1. Rush Hour Peaks (7–9 AM & 4–6 PM)
 - Congestion was at its worst during typical commute times, with speeds often dropping below 25 km/h on major roads like Bloor Street, Yonge Street, and near the Gardiner Expressway entrances.
-- The data clearly shows the classic "double-peak" pattern — one in the morning as people head downtown, and another in the evening as they travel home.
 
 ### 2. Weekday vs. Weekend Patterns
 - Weekdays showed sharp congestion spikes during morning and evening commutes.
-- Weekends, on the other hand, had smoother overall flow, with only slight slowdowns around midday (12 PM–2 PM) — likely from shopping and leisure trips.
-
+- Weekends, on the other hand, had a much smoother overall flow, especially in suburban areas like Etobicoke and Scarborough, where average speeds stayed around 45–50 km/h throughout most of the day.
+- Minor slowdowns occurred between 12 PM and 2 PM in Downtown and Midtown Toronto, with median speeds briefly dropping to 30–35 km/h
+  
 ### 3. Neighbourhood Differences
 - Central areas like Downtown, Waterfront, and Midtown experienced the heaviest congestion, while Etobicoke, Scarborough, and North York maintained faster speeds (often 40 km/h or higher).
 - The choropleth maps made these differences easy to visualize, highlighting Toronto's downtown bottleneck problem.
